@@ -1,4 +1,4 @@
-<figure><img src="assets/images/mimoji.png" width="210"></figure>
+<figure><img src="assets/images/mimoji.png" width="140"></figure>
 
 ## Hi, I'm Jeremy <a href="https://www.linkedin.com/in/ten1seven/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=?style=flat-square&logo=appveyor&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
