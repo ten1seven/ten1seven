@@ -1,15 +1,18 @@
-<div class="center"><img src="assets/images/mimoji.png"></div>
+<figure><img src="assets/images/mimoji.png" width="210"></figure>
 
-### Hi, I'm Jeremy
+## Hi, I'm Jeremy <a href="https://www.linkedin.com/in/ten1seven/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=?style=flat-square&logo=appveyor&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
-I'm a Development Director at <a href="https://www.viget.com/">Viget</a>. We build top-notch sites on WordPress, Craft, and...
+I'm a Development Director at <a href="https://www.viget.com/about/team/jfields/">Viget</a>. We build top-notch <a href="https://www.viget.com/project-type/campaign-sites/">campaign</a>, <a href="https://www.viget.com/project-type/organizational-websites/">organizational</a>, and <a href="https://www.viget.com/project-type/large-content-sites/">large content</a> sites on WordPres and <a href="https://www.viget.com/services/craft-cms/">Craft</a>.
 
-<a href="https://www.linkedin.com/in/ten1seven/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
+Viget is hiring! Check out our <a href="https://www.viget.com/careers/">career listings</a> to find out more.
+
+## What Input ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/what-input)
+
+I'm the author and maintainer of <strong>What Input</strong>, a helpful little accessibility-minded script that detects how a page is being interacted with in real time so that developers and designers can build more useful and beautiful UIs.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ten1seven&repo=what-input)](https://github.com/ten1seven/what-input)
 
+## Selected Writing
 
 * [Design Systems: Building a Parts Kit](https://www.viget.com/articles/design-systems-building-a-parts-kit/) `musings`
 * [Design Systems: Design-Development Collaboration](https://www.viget.com/articles/design-systems-design-development-collaboration/) `musings`
