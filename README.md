@@ -1,3 +1,5 @@
+<div class="center"><img src="assets/images/mimoji.png"></div>
+
 ### Hi, I'm Jeremy
 
 I'm a Development Director at <a href="https://www.viget.com/">Viget</a>. We build top-notch sites on WordPress, Craft, and...
