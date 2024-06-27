@@ -8,7 +8,7 @@ I'm a Development Director at <a href="https://www.viget.com/about/team/jfields/
 
 ## What Input ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/what-input)
 
-I'm the author and maintainer of <strong>What Input</strong>, a helpful little accessibility-minded script that detects how a page is being interacted with in real time so that developers and designers can build more useful and beautiful UIs.
+I'm the author and maintainer of <strong>What Input</strong>, a helpful little accessibility-minded script that detects how a page is being interacted with in real time so developers and designers can build more useful and beautiful UIs.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ten1seven&repo=what-input)](https://github.com/ten1seven/what-input)
 
