@@ -4,7 +4,7 @@
 
 I'm a Development Director at <a href="https://www.viget.com/about/team/jfields/">Viget</a>. We build top-notch <a href="https://www.viget.com/project-type/campaign-sites/">campaign</a>, <a href="https://www.viget.com/project-type/organizational-websites/">organizational</a>, and <a href="https://www.viget.com/project-type/large-content-sites/">large content</a> sites on WordPress and <a href="https://www.viget.com/services/craft-cms/">Craft</a>.
 
-Viget is hiring! Check out our <a href="https://www.viget.com/careers/">career listings</a> to find out more.
+<!--Viget is hiring! Check out our <a href="https://www.viget.com/careers/">career listings</a> to find out more.-->
 
 ## What Input ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hw/what-input)
 
